@@ -1,6 +1,6 @@
 # Atlanta Tech Resources :peach:
 
-![pull-requests](https://img.shields.io/github/issues-pr/{citizen00147}/{atlanta-tech-resources}.svg)
+![pull-requests](https://img.shields.io/github/issues-pr/citizen00147/atlanta-tech-resources)
 
 ## A collection of groups, events, and opportunities for developers in the Atlanta, GA area
 
