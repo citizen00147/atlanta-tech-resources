@@ -14,7 +14,9 @@ For the past couple of years, I've been looking to join groups and meet other de
 
 <br/>
 
-## [Table of Contents](#table-of-contents-📚) :books:
+## [Table of Contents](#table-of-contents):
+
+<br/>
 
 ### [Affordable Conventions](#affordable-conventions)
 
@@ -76,4 +78,4 @@ love to hear how I can keep improving this collection. Shoot me an email at <dev
 
 <br/>
 
-[Back to Top](#table-of-contents-📚) :arrow_up:
+[Back to Top](#table-of-contents) :arrow_up:
