@@ -52,6 +52,7 @@ love to hear how I can keep improving this collection. Shoot me an email at <dev
 ### [<u>Groups</u>](#groups)
 
 - [Casual Coding](https://www.meetup.com/casualcoding/)
+  - Work on your projects in the company of other developers. Meet at Ponce City Market, 2nd floor food hall near Cobbler Union store.
 - [Code for Atlanta](https://www.codeforatlanta.org)
   - Hack nights with a focus on local government issues that occur on the 2nd and 4th Monday of each month.
 - [DEF CON](https://dc404.org)
