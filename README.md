@@ -1,4 +1,4 @@
-# Atlanta Tech Resources :peach:
+# [Atlanta Tech Resources](#atlanta-tech-resources-🍑) :peach:
 
 ![pull-requests](https://img.shields.io/github/issues-pr/citizen00147/atlanta-tech-resources)
 
@@ -13,16 +13,11 @@ For the past couple of years, I've been looking to join groups and meet other de
 ---
 
 <br/>
-
-## [Table of Contents](#table-of-contents):
+To view the Table of Contents, see the image below.
 
 <br/>
 
-### [Affordable Conventions](#affordable-conventions)
-
-### [Groups](#groups)
-
-### [Opportunities](#opportunities)
+![Table of Contents](./images/table-of-contents.png)
 
 <br/>
 
@@ -42,14 +37,14 @@ love to hear how I can keep improving this collection. Shoot me an email at <dev
 
 <br/>
 
-### [<u>Affordable Conventions</u>](#affordable-conventions)
+### <u>Affordable Conventions</u>
 
 - [Atlanta Developer Conference](https://www.atldevcon.com)
   - $10 and lunch is included! A relatively new conference located at Kennesaw State University.
 - [Refactr Tech](https://www.refactr.tech)
   - Regular admission goes for $200 and you can add $99 for a workshop. Refactr Tech highlights diversity and inclusion in the tech sphere. A lot of sessions focus on accessibility and marginalized groups of people and give good insight on more than just technical knowledge. It's a small, but great conference that's easy to meet and mingle with others.
 
-### [<u>Groups</u>](#groups)
+### <u>Groups</u>
 
 - [Casual Coding](https://www.meetup.com/casualcoding/)
   - Work on your projects in the company of other developers. Meet at Ponce City Market, 2nd floor food hall near Cobbler Union store.
@@ -68,7 +63,7 @@ love to hear how I can keep improving this collection. Shoot me an email at <dev
 - [Women Who Code Atlanta](https://www.meetup.com/women-who-code-atlanta/)
   - Dedicated to supporting women in tech fields
 
-### [<u>Opportunities</u>](#opportunities)
+### <u>Opportunities</u>
 
 - [Atlanta Tech Village](https://atlantatechvillage.com)
   - A place for startups. Not all meetups and workshops require a membership.
@@ -83,4 +78,4 @@ love to hear how I can keep improving this collection. Shoot me an email at <dev
 
 <br/>
 
-[Back to Top](#table-of-contents) :arrow_up:
+[Back to Top](#atlanta-tech-resources-🍑) :arrow_up:
