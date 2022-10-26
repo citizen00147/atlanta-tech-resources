@@ -1,4 +1,4 @@
-# [Atlanta Tech Resources](#atlanta-tech-resources-🍑) :peach:
+# :peach: [Atlanta Tech Resources](#🍑-atlanta-tech-resources)
 
 ![pull-requests](https://img.shields.io/github/issues-pr/citizen00147/atlanta-tech-resources)
 
@@ -78,4 +78,4 @@ love to hear how I can keep improving this collection. Shoot me an email at <dev
 
 <br/>
 
-[Back to Top](#atlanta-tech-resources-🍑) :arrow_up:
+:arrow_up: [back to top](#🍑-atlanta-tech-resources)
