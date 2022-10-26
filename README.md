@@ -59,10 +59,14 @@ love to hear how I can keep improving this collection. Shoot me an email at <dev
   - Get together the third Saturday of every month from 2 P.M. to 4 P.M. at Manuel’s Tavern and talk about technology & security.
 - [Free Code Camp Atlanta](https://www.facebook.com/groups/free.code.camp.atlanta)
   - Talk about code, projects, and get help all while drinking coffee.
+- [Girl Develop It Atlanta](https://www.meetup.com/girl-develop-it-atlanta/)
+  - Opportunities for women and non-binary adults to further their programming skills.
 - [JavaScript Alpharetta](https://www.meetup.com/JavaScriptAlpharetta/)
   - Everything JavaScript. Just getting back to in-person meetups. Code jams, talks, etc.
 - [React ATL](https://www.meetup.com/react-atl/)
   - All about React. Virtual meetup. Not sure when going back to in-person.
+- [Women Who Code Atlanta](https://www.meetup.com/women-who-code-atlanta/)
+  - Dedicated to supporting women in tech fields
 
 ### [<u>Opportunities</u>](#opportunities)
 
