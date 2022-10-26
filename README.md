@@ -13,13 +13,6 @@ For the past couple of years, I've been looking to join groups and meet other de
 ---
 
 <br/>
-To view the Table of Contents, see the image below.
-
-<br/>
-
-![Table of Contents](./images/table-of-contents.png)
-
-<br/>
 
 This list is a collection of active groups and events, all in one place, so you don't have to do the digging!
 Please feel free to contribute _(I know there's a lot more out there)_ and open a PR! Just check the [contribution guidelines](docs/CONTRIBUTING.md) first.
