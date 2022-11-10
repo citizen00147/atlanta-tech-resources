@@ -55,6 +55,10 @@ love to hear how I can keep improving this collection. Shoot me an email at <dev
   - All about React. Virtual meetup. Not sure when going back to in-person.
 - [Women Who Code Atlanta](https://www.meetup.com/women-who-code-atlanta/)
   - Dedicated to supporting women in tech fields
+- [PyATL](https://pyatl.dev)
+  - Meetups every first and second thursday of the month about python!
+- [Atlanta Vue.js Meeup](https://www.meetup.com/atlanta-vue-js-meetup/)
+  - All about Vue. Meetups will begin again in 2023!
 
 ### <u>Opportunities</u>
 
