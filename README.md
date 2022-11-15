@@ -44,7 +44,7 @@ love to hear how I can keep improving this collection. Shoot me an email at <dev
 - [Code for Atlanta](https://www.codeforatlanta.org)
   - Hack nights with a focus on local government issues that occur on the 2nd and 4th Monday of each month.
 - [Decatur Makers](https://decaturmakers.org)
-  - A membership based makerspace. If you like to solder, they've got the equipment to work on your Arduino/Pi projects and a bunch of other stuff!
+  - A membership based makerspace. If you have Ardunio/Pi projects to solder, they've got the equipment and a bunch of other stuff!
 - [DEF CON](https://dc404.org)
   - Get together the third Saturday of every month from 2 P.M. to 4 P.M. at Manuel’s Tavern and talk about technology & security.
 - [Free Code Camp Atlanta](https://www.facebook.com/groups/free.code.camp.atlanta)
