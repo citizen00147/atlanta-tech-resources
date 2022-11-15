@@ -1,8 +1,8 @@
-# :peach: Atlanta Tech Resources
+# Atlanta Tech Resources
 
 ![pull-requests](https://img.shields.io/github/issues-pr/citizen00147/atlanta-tech-resources)
 
-## A collection of groups, events, and opportunities for developers in the Atlanta, GA area
+## A collection of groups, events, and opportunities for developers in the Atlanta, GA area :peach:
 
 <br/>
 
@@ -51,14 +51,14 @@ love to hear how I can keep improving this collection. Shoot me an email at <dev
   - Opportunities for women and non-binary adults to further their programming skills.
 - [JavaScript Alpharetta](https://www.meetup.com/JavaScriptAlpharetta/)
   - Everything JavaScript. Just getting back to in-person meetups. Code jams, talks, etc.
-- [React ATL](https://www.meetup.com/react-atl/)
-  - All about React. Virtual meetup. Not sure when going back to in-person.
-- [Women Who Code Atlanta](https://www.meetup.com/women-who-code-atlanta/)
-  - Dedicated to supporting women in tech fields
 - [PyATL](https://pyatl.dev)
   - Meetups every first and second thursday of the month about python!
+- [React ATL](https://www.meetup.com/react-atl/)
+  - All about React. Virtual meetup. Not sure when going back to in-person.
 - [Atlanta Vue.js Meeup](https://www.meetup.com/atlanta-vue-js-meetup/)
   - All about Vue. Meetups will begin again in 2023!
+- [Women Who Code Atlanta](https://www.meetup.com/women-who-code-atlanta/)
+  - Dedicated to supporting women in tech fields.
 
 ### <u>Opportunities</u>
 
@@ -74,3 +74,5 @@ love to hear how I can keep improving this collection. Shoot me an email at <dev
   - A membership shared-workspace but with events open to the public.
 
 <br/>
+
+:arrow_up: [back to top](#atlanta-tech-resources)
