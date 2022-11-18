@@ -8,7 +8,7 @@
 
 ### The Problem
 
-For the past couple of years, I've been looking to join groups and meet other developers, make friends, and connections. I've finally found some but it took a while to sift through dead groups on Meetup and find afforable conventions to network at.
+For the past couple of years, I've been looking to join groups and meet other developers, make friends, and connections. I've finally found some but it took a while to sift through dead groups on Meetup and find affordable conventions to network at.
 
 ---
 
