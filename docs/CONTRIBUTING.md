@@ -9,10 +9,9 @@ Anyone is free to contribute so long as the contents are specific to Atlanta, GA
 
 <br/>
 
-1. When adding a new catagory, don't forget to include it in the Table of Contents
-2. Please put everything in **alphabetical order**
-3. Give a brief description of the collection item
-4. **_DO NOT_** list tutorials, tools, docs, or podcasts
+1. Please put everything in **alphabetical order**
+2. Give a brief description of the collection item
+3. **_DO NOT_** list tutorials, tools, docs, or podcasts
 
 <br/>
 
@@ -20,12 +19,6 @@ Anyone is free to contribute so long as the contents are specific to Atlanta, GA
 
 ```markdown
 ### [<u>Catagory Name</u>](#catagory-name)
-```
-
-### Add to Table of Contents:
-
-```markdown
-### [Catagory Name](#catagory-name)
 ```
 
 ### Add Content:
