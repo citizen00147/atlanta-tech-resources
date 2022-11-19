@@ -1,4 +1,4 @@
-# So You Want to Contribute - A Guide :pencil:
+# So You Want to Contribute - a Guide :pencil:
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)&nbsp;
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v2/open-source.svg)](https://github.com/firstcontributions/open-source-badges)
