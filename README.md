@@ -38,7 +38,8 @@ love to hear how I can keep improving this collection. Shoot me an email at <dev
   - Regular admission goes for $200 and you can add $99 for a workshop. Refactr Tech highlights diversity and inclusion in the tech sphere. A lot of sessions focus on accessibility and marginalized groups of people and give good insight on more than just technical knowledge. It's a small, but great conference that's easy to meet and mingle with others.
 
 ### <u>Groups</u>
-
+- [Atlanta Tech Meetup](https://www.meetup.com/atl-tech-meetup/)
+  - Meets the first Tuesday of each month at Atlanta Tech Park in Peachtree Corners for tech discussions and networking, covering topics from software engineering to cloud technologies and DevOps.
 - [Casual Coding](https://www.meetup.com/casualcoding/)
   - Work on your projects in the company of other developers. Meet at Ponce City Market, 2nd floor food hall near Cobbler Union store.
 - [Code for Atlanta](https://www.codeforatlanta.org)
