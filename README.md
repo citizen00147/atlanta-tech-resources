@@ -25,7 +25,7 @@ love to hear how I can keep improving this collection. Shoot me an email at <dev
 <br/>
 
 <p align="center">
-<a href="https://twitter.com/citizen00147"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> &nbsp; &nbsp;
+<a href="https://indieweb.social/@citizen00147"><img src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white" height=25></a> &nbsp; &nbsp;
 <a href="https://hashnode.com/@citizen00147"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height=25></a><p>
 
 <br/>
