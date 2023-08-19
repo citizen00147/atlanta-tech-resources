@@ -35,7 +35,7 @@ love to hear how I can keep improving this collection. Shoot me an email at <dev
 - [Atlanta Developer Conference](https://www.atldevcon.com)
   - $10 and lunch is included! A relatively new conference located at Kennesaw State University.
 - [Refactr Tech](https://www.refactr.tech)
-  - Regular admission goes for $200 and you can add $99 for a workshop. Refactr Tech highlights diversity and inclusion in the tech sphere. A lot of sessions focus on accessibility and marginalized groups of people and give good insight on more than just technical knowledge. It's a small, but great conference that's easy to meet and mingle with others.
+  - Regular admission goes for $60. Refactr Tech highlights diversity and inclusion in the tech sphere. A lot of sessions focus on accessibility and marginalized groups of people and give good insight on more than just technical knowledge. It's a small, but great conference that's easy to meet and mingle with others.
 
 ### <u>Groups</u>
 - [Atlanta Tech Meetup](https://www.meetup.com/atl-tech-meetup/)
